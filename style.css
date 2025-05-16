@@ -148,7 +148,7 @@ font-size: 30px;
 /* Hero section */
 
 .hero_section{
-    background-image: url(hero_image.jpg);
+    background-image: url(images/hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -251,7 +251,7 @@ ul a {
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
